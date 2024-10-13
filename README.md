@@ -8,7 +8,6 @@ Interactive elements powered by JavaScript further engage visitors, creating an 
 Temesgen's portfolio exemplifies a mastery of front-end technologies, leaving a lasting impression on both aesthetics and user interaction.
 
     # About Me
-![screen shoot About me](https://github.com/TEMESGENABDISSA/portfolio_v1/assets/109625337/79e24fb4-601a-4050-8b5a-e7f077b8ca8f)
+
 
    #  Latest Project
-![screenshoot projects](https://github.com/TEMESGENABDISSA/portfolio_v1/assets/109625337/f6535146-29a6-4eef-91ed-e70fff91ed4d)
